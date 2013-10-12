@@ -1,0 +1,1 @@
+MsTranslator = Npm.require('mstranslator')

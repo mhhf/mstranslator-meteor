@@ -1,0 +1,10 @@
+{
+  "name": "mstranslator",
+  "description": "NPM Wrapper for the mstranslator package",
+  "homepage": "https://github.com/nanek/mstranslator",
+  "version": "0.1.5",
+	"author": "Denis Erfurt <denis.erfurt@gmail.com>",
+  "git": "https://github.com/mhhf/mstranslator-meteor.git",
+  "packages": {
+  }
+}
